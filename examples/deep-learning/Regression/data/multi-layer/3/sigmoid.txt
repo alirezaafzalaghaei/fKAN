@@ -1,0 +1,195 @@
+
+ACC: 6.74e-01 6.00e-01
+Model: "sequential_20"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_120 (Dense)           (None, 5)                 10        
+                                                                 
+ activation_100 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_121 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 16 (128.00 Byte)
+Trainable params: 16 (128.00 Byte)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+1
+
+ACC: 1.35e+00 8.76e-01
+Model: "sequential_21"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_122 (Dense)           (None, 5)                 10        
+                                                                 
+ activation_101 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_123 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_102 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_124 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_103 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_125 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 76 (608.00 Byte)
+Trainable params: 76 (608.00 Byte)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+3
+
+ACC: 1.75e+00 1.25e+00
+Model: "sequential_22"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_126 (Dense)           (None, 5)                 10        
+                                                                 
+ activation_104 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_127 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_105 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_128 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_106 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_129 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_107 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_130 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_108 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_131 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 136 (1.06 KB)
+Trainable params: 136 (1.06 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+5
+
+ACC: 1.76e+00 1.25e+00
+Model: "sequential_23"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_132 (Dense)           (None, 5)                 10        
+                                                                 
+ activation_109 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_133 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_110 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_134 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_111 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_135 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_112 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_136 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_113 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_137 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_114 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_138 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_115 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_139 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 196 (1.53 KB)
+Trainable params: 196 (1.53 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+7
+
+ACC: 1.76e+00 1.25e+00
+Model: "sequential_24"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_140 (Dense)           (None, 5)                 10        
+                                                                 
+ activation_116 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_141 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_117 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_142 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_118 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_143 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_119 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_144 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_120 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_145 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_121 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_146 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_122 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_147 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_123 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_148 (Dense)           (None, 5)                 30        
+                                                                 
+ activation_124 (Activation  (None, 5)                 0         
+ )                                                               
+                                                                 
+ dense_149 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 256 (2.00 KB)
+Trainable params: 256 (2.00 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+9

@@ -1,0 +1,195 @@
+
+ACC: 6.84e-02 5.88e-02
+Model: "sequential_30"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_180 (Dense)           (None, 5)                 10        
+                                                                 
+ jacobi_neural_block_150 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_181 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 19 (152.00 Byte)
+Trainable params: 19 (152.00 Byte)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+1
+
+ACC: 2.55e-02 3.00e-02
+Model: "sequential_31"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_182 (Dense)           (None, 5)                 10        
+                                                                 
+ jacobi_neural_block_151 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_183 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_152 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_184 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_153 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_185 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 85 (680.00 Byte)
+Trainable params: 85 (680.00 Byte)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+3
+
+ACC: 1.30e+00 1.86e+00
+Model: "sequential_32"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_186 (Dense)           (None, 5)                 10        
+                                                                 
+ jacobi_neural_block_154 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_187 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_155 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_188 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_156 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_189 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_157 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_190 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_158 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_191 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 151 (1.18 KB)
+Trainable params: 151 (1.18 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+5
+
+ACC: 6.18e-01 4.01e-01
+Model: "sequential_33"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_192 (Dense)           (None, 5)                 10        
+                                                                 
+ jacobi_neural_block_159 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_193 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_160 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_194 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_161 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_195 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_162 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_196 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_163 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_197 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_164 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_198 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_165 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_199 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 217 (1.70 KB)
+Trainable params: 217 (1.70 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+7
+
+ACC: 2.62e-02 3.65e-02
+Model: "sequential_34"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense_200 (Dense)           (None, 5)                 10        
+                                                                 
+ jacobi_neural_block_166 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_201 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_167 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_202 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_168 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_203 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_169 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_204 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_170 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_205 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_171 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_206 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_172 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_207 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_173 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_208 (Dense)           (None, 5)                 30        
+                                                                 
+ jacobi_neural_block_174 (J  (None, 5)                 3         
+ acobiNeuralBlock)                                               
+                                                                 
+ dense_209 (Dense)           (None, 1)                 6         
+                                                                 
+=================================================================
+Total params: 283 (2.21 KB)
+Trainable params: 283 (2.21 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
+9
