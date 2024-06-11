@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fkan',
-    version='0.0.1',
+    version='0.0.2',
     packages=["fkan"],
     description="Fractional Kolmogorov-Arnold Network (fKAN)",
     author='Alireza Afzal Aghaei',
