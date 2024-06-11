@@ -69,4 +69,4 @@ class FractionalJacobiNeuralBlock(tf.keras.layers.Layer):
 
         return self.jacobi_polynomial(
             inputs, self.degree, normalized_alpha, normalized_beta, normalized_zeta, 0, 1
-        )1
+        )
